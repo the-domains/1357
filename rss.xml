@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[1357]]></title>
         <description><![CDATA[1357]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/1357/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 11:56:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 11:57:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/1357/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>愛上有機</p>]]></description>
-            <link>undefineddaa541f0-181f-4440-8dc4-2f5c96ca4309/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6953639-8730-43fe-8772-455fcf014aa3.jpg">]]></description>
+            <link>https://thegrid.ai/1357/daa541f0-181f-4440-8dc4-2f5c96ca4309/index.html</link>
             <guid isPermaLink="false">daa541f0-181f-4440-8dc4-2f5c96ca4309</guid>
-            <pubDate>Sat, 23 Jan 2016 11:56:15 GMT</pubDate>
+            <pubDate>Sat, 23 Jan 2016 11:57:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
