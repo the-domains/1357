@@ -1,0 +1,28 @@
+name: '1357'
+favicon: null
+layout_spectrum: 0.0574716969858855
+typography_spectrum: 0.15807391656562686
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3523104547057301
+  lightness: 0.8080024486407638
+  saturation: 0.6576972948387265
+  rhythmicContrast: 0.09098253143019974
+purpose: []
